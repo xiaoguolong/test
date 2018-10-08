@@ -6,7 +6,7 @@
     <groupId>com.hqjy</groupId>
     <artifactId>test</artifactId>
     <version>1.0</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
 
 
 
@@ -137,6 +137,7 @@
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.7.0</version>
                 </plugin>
+
             </plugins>
         </pluginManagement>
     </build>
